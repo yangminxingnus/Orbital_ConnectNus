@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_backto_aroundme"
+        android:title="Go Back to Around Me Page"
+        android:icon="@mipmap/back_arrow"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/action_share_event"
+        android:title="Share the Event You Are Interested"
+        android:icon="@mipmap/share_icon"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="200"
+        />
+</menu>

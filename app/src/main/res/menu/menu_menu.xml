@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_backtologin"
+        android:title="Go Back to Login Page"
+        android:icon="@mipmap/back_arrow"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/action_user"
+        android:title="User Account"
+        android:icon="@mipmap/user_icon"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="200"
+        />
+
+</menu>

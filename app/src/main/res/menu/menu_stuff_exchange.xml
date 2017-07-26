@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_backfrom_se"
+        android:title="Go Back"
+        android:icon="@mipmap/back_arrow"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/action_refresh_se"
+        android:title="Refresh"
+        android:icon="@mipmap/refresh_icon"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="200"
+        />
+    <item
+        android:id="@+id/action_search_se"
+        android:title="Search for Belongings"
+        android:icon="@mipmap/search_icon"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="300"
+        />
+
+</menu>

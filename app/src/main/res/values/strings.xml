@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Connect!NUS</string>
+    <string name="user_info1">1. Around Me:\nThis is a page with all kinds of news and information that is relevant to students. It will show students the events or notice that currently comes out, so that they are able to know more about what is happening on campus.\n\n</string>
+    <string name="user_info2">2. Lost and Found:\nIn this column, students who have found any unclaimed items can make a post here, and people who have lost their belongings can search for them from all the posts. We have created an item list, and several buttons so that students can create new posts or see all the posts here. They need to briefly describe the item they have found, their location and contact information. Also, they are able to save and submit their posts or delete their posts.\n\n</string>
+    <string name="user_info3">3. Stuff Exchange:\nSimilar to the lost and found function, we are also going to build another platform here for students to post items that they do not want to own anymore. Students who are looking for goods can come to the platform and search for items that they want. Also, we are going to improve the categorising and searching system in order to make it more convenient for users to search for items.\n\n</string>
+    <string name="google_android_map_api_key">AIzaSyB6Krc8m4JvJEu3d63q9h8UA8cTIhsQWrY</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="address">
+        <item>Biz 1, Mochtar Riady Building</item>
+        <item>Biz 2</item>
+        <item>CAPT</item>
+        <item>Center for English Language Communication</item>
+        <item>Central Library</item>
+        <item>CFA Studios</item>
+        <item>Cinnamon College</item>
+        <item>Computer Center</item>
+        <item>Eusoff Hall</item>
+        <item>Faculty of Arts and Social Science</item>
+        <item>Faculty of Engineering</item>
+        <item>Faculty of Science</item>
+        <item>Faculty of Science S16</item>
+        <item>Faculty of Science S17</item>
+        <item>Football and Multi-purpose Field</item>
+        <item>Kent Ridge Hall</item>
+        <item>King Edward VII Hall</item>
+        <item>Multi Purpose Sport Hall</item>
+        <item>NUS Museum</item>
+        <item>Prince Georges Park Residence</item>
+        <item>Raffles Hall</item>
+        <item>RC4</item>
+        <item>Ridge View Residential College</item>
+        <item>School of Computing Com1</item>
+        <item>School of Computing Com2</item>
+        <item>School of Design and Envirenment</item>
+        <item>Sheares Hall</item>
+        <item>Temasek Hall</item>
+        <item>Tembusu College</item>
+        <item>University Cultural Centre</item>
+        <item>University Hall</item>
+        <item>University Health Centre</item>
+        <item>University Town ERC</item>
+        <item>University Town Food Court</item>
+        <item>University Town SRC</item>
+        <item>University Town Town Plaza</item>
+        <item>Yale-NUS College</item>
+        <item>Yong Siew Toh Conservatory of Music</item>
+        <item>Yusof Ishak House</item>
+    </string-array>
+</resources>
